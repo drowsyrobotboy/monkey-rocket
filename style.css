@@ -1,0 +1,8 @@
+body{
+  font-family:OpenSansEmoji;
+}
+
+@font-face{
+  font-family:OpenSansEmoji;
+  src:url(OpenSansEmoji.ttf) format("No-IE-404"),url(OpenSansEmoji.ttf) format("truetype")
+}
