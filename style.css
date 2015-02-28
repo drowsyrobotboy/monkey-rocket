@@ -1,7 +1,26 @@
 body{
   font-family:OpenSansEmoji;
+  background: #fbfbfb;
 }
-
+.top{
+  font-size: 48px;
+  color: #666;
+  text-align:center;
+}
+.content{
+  font-size: 64px;
+  text-align:justify;
+  color: #555;
+  width:80%;
+  padding:20px;
+  background: #f0f0f0;
+  margin: 10px auto;
+  word-wrap: break-word;
+}
+.content h3{
+  margin:0;
+  font-size: 32px;
+}
 @font-face{
   font-family:OpenSansEmoji;
   src:url(OpenSansEmoji.ttf) format("No-IE-404"),url(OpenSansEmoji.ttf) format("truetype")
